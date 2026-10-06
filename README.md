@@ -1,6 +1,6 @@
 # Indian Residential Energy Consumption Pattern Analysis
 
-**DWDM Lab Project • 23CS3551**
+
 
 ## 1. Project Overview
 
