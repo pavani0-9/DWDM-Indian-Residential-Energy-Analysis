@@ -1,7 +1,7 @@
 # Indian Residential Energy Consumption Pattern Analysis
 
 ## Live Demo -
-https://dwdm-indian-residential-energy-analysis.streamlit.app/
+## URL : https://dwdm-indian-residential-energy-analysis.streamlit.app/
 
 ## 1. Project Overview
 
