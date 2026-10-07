@@ -218,3 +218,5 @@ This paper is used as methodological reference. The project dataset is the CEEW 
 ## 18. Project Limitation
 
 The model discovers statistical consumption patterns from the available smart-meter data. Cluster membership should therefore be interpreted as a data-driven consumption pattern rather than a fixed behavioural or appliance category.
+## URL: 
+https://dwdm-indian-residential-energy-analysis.streamlit.app/
